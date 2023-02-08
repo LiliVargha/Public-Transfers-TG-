@@ -1,18 +1,18 @@
 # Public Transfer (TG) Age Profiles in 50 countries and Public Transfer Clusters
 
+This repository contains the replication file for clustering Public Transfer (TG) age profiles and visualizing the results using line plots and heatmaps for 50 countries.
+
 Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts)
 
 FIGURE 1 & 2
 
 Net public transfers are the age specific differences between public transfer inflows (benefits) and outflows (contributions) that are mediated by the public sector. The most important public transfer inflows are pensions, education, health services and general public services. The outflows consist mainly of taxes and social contributions registered in National Accounts. The figure shows which generations are net beneficiaries of public transfers (shown in red colours) and net givers (shown in blue colours). The values at each age are normalized using the average labour income of age 30-49. For details on the clustering see the presentation.
 
-This repository contains the replication file for clustering Public Transfer (TG) age profiles and visualizing the results using line plots and heatmaps for 50 countries.
-
-### Data source
+## Data source
 1. [Global NTA results](https://www.ntaccounts.org/web/nta/show/Browse%20database) (Lee and Mason 2011)
 2. [European AGENTA Project](http://dataexplorer.wittgensteincentre.org/nta/) (Istenič et al. 2019)
 
-### Replication files
+## Replication files
 VIZTG.R
 
 ### Other versions of visualizing Public Transfer Age Profiles
@@ -20,5 +20,6 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [In
 
 FIGURE 3
 
-### Future versions
-Including newest NTA data
+### Future versions will
+-include newest NTA data
+-use different ordering
