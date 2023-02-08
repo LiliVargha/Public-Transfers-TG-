@@ -5,8 +5,9 @@ This repository contains the replication file for clustering Public Transfer (TG
 Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts)
 
 ### FIGURE 1: Public transfer age profile clusters (N=50, 2002-2016)
-![Image](https://user-images.githubusercontent.com/68189671/217645368-26027c10-1064-40f5-8aac-391948fc7b77.jpg)
-### FIGURE 2:
+![Image](https://user-images.githubusercontent.com/68189671/217647319-f69bb149-8f31-4e6b-b0da-546720cd6ed4.jpg)
+### FIGURE 2: Public transfers in 50 countries (2002-2016) by clusters
+![Image](https://user-images.githubusercontent.com/68189671/217647508-ee6cad5b-1d2d-465d-9f33-a14c6cab9b5f.jpg)
 
 [Download FIGURE 1](link)
 [Download FIGURE 2](link)
