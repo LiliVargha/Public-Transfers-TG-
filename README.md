@@ -27,7 +27,7 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [In
 ### FIGURE 3: Public transfers in 50 countries
 ![Image](https://user-images.githubusercontent.com/68189671/217633434-0c633b40-b66e-4968-b10b-1bb50b30f145.jpg)
 
-[Download FIGURE 3]([link](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VizTG.jpg)
+[Download FIGURE 3](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VizTG.jpg)
 
 ## Future versions will
 - Include newest NTA data.
