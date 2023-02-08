@@ -24,7 +24,8 @@ Net public transfers are the age specific differences between public transfer in
 
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
 
-### FIGURE 3: Public transfers in 50 countries
+### FIGURE 3: Public transfers in 50 countries ordered according to the age of becoming net contributor
+
 ![Image](https://user-images.githubusercontent.com/68189671/217633434-0c633b40-b66e-4968-b10b-1bb50b30f145.jpg)
 
 [Download FIGURE 3](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VizTG.jpg)
