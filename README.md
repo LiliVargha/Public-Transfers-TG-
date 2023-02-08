@@ -4,7 +4,7 @@ This repository contains the replication file for clustering Public Transfer (TG
 
 Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts)
 
-### FIGURE 1:
+### FIGURE 1: Public transfer age profile clusters (N=50, 2002-2016)
 
 ### FIGURE 2:
 
@@ -20,11 +20,11 @@ Net public transfers are the age specific differences between public transfer in
 ## Replication files
 [VIZTG.R](link)
 
-## Other versions of visualizing Public Transfer Age Profiles
+## Other versions of visualizing Public Transfer age profiles
 
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
 
-### FIGURE 3: Public transfers in 50 countries ordered according to the age of becoming net contributor
+### FIGURE 3: Public transfers in 50 countries (2002-2016) ordered according to the age of becoming net contributor
 
 ![Image](https://user-images.githubusercontent.com/68189671/217633434-0c633b40-b66e-4968-b10b-1bb50b30f145.jpg)
 
