@@ -18,5 +18,5 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [In
 
 FIGURE 3
 
-## Future Versions
+## Future versions
 Including newest NTA data
