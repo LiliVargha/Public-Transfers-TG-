@@ -8,7 +8,7 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 
 ### FIGURE 2:
 
-[Download FIGURE 1](link)
+[Download FIGURE 1](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VizTG.jpg)
 [Download FIGURE 2](link)
 
 Net public transfers are the age specific differences between public transfer inflows (benefits) and outflows (contributions) that are mediated by the public sector. The most important public transfer inflows are pensions, education, health services and general public services. The outflows consist mainly of taxes and social contributions registered in National Accounts. The figure shows which generations are beneficiaries of public transfers and givers from age 0 till 85+. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation.
