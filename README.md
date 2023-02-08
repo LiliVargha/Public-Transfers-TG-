@@ -19,7 +19,7 @@ VIZTG.R
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
 
 FIGURE 3
-![https://user-images.githubusercontent.com/68189671/217525679-fdaddb96-d8cb-4852-95bb-24359be239ec.jpg]
+![Image](https://user-images.githubusercontent.com/68189671/217525679-fdaddb96-d8cb-4852-95bb-24359be239ec.jpg)
 
 ## Future versions will
 - Include newest NTA data.
