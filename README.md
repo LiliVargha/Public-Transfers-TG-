@@ -13,9 +13,10 @@ Net public transfers are the age specific differences between public transfer in
 2. [European AGENTA Project](http://dataexplorer.wittgensteincentre.org/nta/) (Istenič et al. 2019)
 
 ## Replication files
-VIZTG.R
+[VIZTG.R](link)
 
 ## Other versions of visualizing Public Transfer Age Profiles
+
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
 
 Figure: Public transfers in 50 countries
