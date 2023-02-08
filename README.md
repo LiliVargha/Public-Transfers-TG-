@@ -22,4 +22,4 @@ FIGURE 3
 
 ## Future versions will
 - Include newest NTA data.
-- Use different ordering
+- Use different ordering (for example by continents).
