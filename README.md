@@ -19,7 +19,7 @@ The public transfers in these figures are the age specific differences between p
 2. [European AGENTA Project](http://dataexplorer.wittgensteincentre.org/nta/) (Istenič et al. 2019)
 
 ## Replication files
-The file for replication is [VIZTG.R](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VIZTG.R). The file contains explanation, all the different visualizations and the clustering.
+The file for replication is [VIZTG.R](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VIZTG.R). The file contains explanations, all the different visualizations and the clustering.
 
 ## Other versions of visualizing Public Transfer age profiles
 
