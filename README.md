@@ -6,7 +6,7 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 
 ### FIGURE 1: Public transfer age profile clusters (N=50, 2002-2016)
 ![Image](https://user-images.githubusercontent.com/68189671/217647319-f69bb149-8f31-4e6b-b0da-546720cd6ed4.jpg)
-### FIGURE 2: Public transfers by age in 50 countries (2002-2016) by clusters
+### FIGURE 2: Public transfers by age and clusters in 50 countries (2002-2016)
 ![Image](https://user-images.githubusercontent.com/68189671/217647508-ee6cad5b-1d2d-465d-9f33-a14c6cab9b5f.jpg)
 
 [Download FIGURE 1](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTG.jpg)
