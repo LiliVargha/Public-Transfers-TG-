@@ -35,5 +35,7 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [In
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: Visualizing Economic Lifecycles. European NTA Meeting, 15 November 2022.
 
 ## Future versions will
+- Include gender specific results for EU countries and maybe also for other countries.
 - Include newest NTA data.
 - Use different ordering (for example by continents).
+- 
