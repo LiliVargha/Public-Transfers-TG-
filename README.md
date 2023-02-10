@@ -38,4 +38,3 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: Vis
 - Include gender specific results for EU countries and maybe also for other countries.
 - Include newest NTA data.
 - Use different ordering (for example by continents).
-- 
