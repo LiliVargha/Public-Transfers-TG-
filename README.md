@@ -40,5 +40,5 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: Vis
 - Use different ordering (for example by continents).
 
 ## Also check the following repositories
-- [Labour income by age in 77 countries and labour income by gender and by age in 39 countries](link)
+- [Labour income by age in 77 countries and labour income by gender and by age in 39 countries](https://github.com/LiliVargha/Labour-Income_YL)
 - ...
