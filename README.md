@@ -38,3 +38,7 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: Vis
 - Include gender specific results for EU countries and maybe also for other countries.
 - Include newest NTA data.
 - Use different ordering (for example by continents).
+
+## Also check the following repositories
+- [Labour income by age in 77 countries and labour income by gender and by age in 39 countries](link)
+- ...
