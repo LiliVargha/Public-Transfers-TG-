@@ -32,8 +32,6 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.  
 
-Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: Visualizing Economic Lifecycles. European NTA Meeting, 15 November 2022.
-
 ## Future versions will
 - Include gender specific results for EU countries and maybe also for other countries.
 - Include newest NTA data.
