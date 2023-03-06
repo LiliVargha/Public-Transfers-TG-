@@ -12,9 +12,12 @@ This repository contains the replication file for clustering Public Transfer (TG
 
 The public transfers in these figures are the age specific differences between public transfer inflows (benefits) and outflows (contributions) that are mediated by the public sector. The most important public transfer inflows are pensions, education, health services and general public services. The outflows consist mainly of taxes and social contributions registered in National Accounts. The figure shows which generations are beneficiaries and contributors of public transfers from age 0 till 85+. The values are averages calculated using  National Accounts, administrative and survey data in the different countries. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation on the typology of economic lifecycles [References below] and the replication files. For more details on the data see documentation of the data sources.
 
+### FIGURE 3: Public transfers by age and clusters in 50 countries (2002-2016)
+![Image](https://user-images.githubusercontent.com/68189671/223217598-98c22de2-f51c-48a5-83e2-685e5d7b1c17.jpg)
+
 ## Other versions of visualizing Public Transfer age profiles
 
-### FIGURE 3: Public transfers in 50 countries (2002-2016) ordered according to the age of becoming net contributor
+### FIGURE 4: Public transfers in 50 countries (2002-2016) ordered according to the age of becoming net contributor
 
 ![Image](https://user-images.githubusercontent.com/68189671/217633434-0c633b40-b66e-4968-b10b-1bb50b30f145.jpg)
 
